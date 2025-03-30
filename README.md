@@ -1,4 +1,4 @@
-## **Web Automation on OrangeHRM using pytest**
+## **Web Automation with pytest**
 
 This project is an automation test suite built using **Python** and **Selenium** for the **OrangeHRM** application. The suite is designed to perform end-to-end testing of the login functionality and to ensure that the core functionality of the web application works as expected. The tests are written using **pytest** and are structured to be easily extensible for future test cases.
 
